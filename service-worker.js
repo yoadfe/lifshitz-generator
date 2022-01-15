@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/lifshitz-generator/precache-manifest.75bd7752397be82548b631a97c3527ce.js"
+  "/lifshitz-generator/precache-manifest.a1707977d2c815f28a6da2af4bd781b2.js"
 );
 
 self.addEventListener('message', (event) => {

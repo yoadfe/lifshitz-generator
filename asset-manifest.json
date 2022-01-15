@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.js": "/lifshitz-generator/static/js/main.d564e613.chunk.js",
-    "main.js.map": "/lifshitz-generator/static/js/main.d564e613.chunk.js.map",
+    "main.js": "/lifshitz-generator/static/js/main.e12dc4e4.chunk.js",
+    "main.js.map": "/lifshitz-generator/static/js/main.e12dc4e4.chunk.js.map",
     "runtime-main.js": "/lifshitz-generator/static/js/runtime-main.fcc627d3.js",
     "runtime-main.js.map": "/lifshitz-generator/static/js/runtime-main.fcc627d3.js.map",
     "static/css/2.c1c45ef1.chunk.css": "/lifshitz-generator/static/css/2.c1c45ef1.chunk.css",
     "static/js/2.c9c9a1cf.chunk.js": "/lifshitz-generator/static/js/2.c9c9a1cf.chunk.js",
     "static/js/2.c9c9a1cf.chunk.js.map": "/lifshitz-generator/static/js/2.c9c9a1cf.chunk.js.map",
     "index.html": "/lifshitz-generator/index.html",
-    "precache-manifest.75bd7752397be82548b631a97c3527ce.js": "/lifshitz-generator/precache-manifest.75bd7752397be82548b631a97c3527ce.js",
+    "precache-manifest.a1707977d2c815f28a6da2af4bd781b2.js": "/lifshitz-generator/precache-manifest.a1707977d2c815f28a6da2af4bd781b2.js",
     "service-worker.js": "/lifshitz-generator/service-worker.js",
     "static/css/2.c1c45ef1.chunk.css.map": "/lifshitz-generator/static/css/2.c1c45ef1.chunk.css.map"
   },
@@ -16,6 +16,6 @@
     "static/js/runtime-main.fcc627d3.js",
     "static/css/2.c1c45ef1.chunk.css",
     "static/js/2.c9c9a1cf.chunk.js",
-    "static/js/main.d564e613.chunk.js"
+    "static/js/main.e12dc4e4.chunk.js"
   ]
 }
